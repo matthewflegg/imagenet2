@@ -7,7 +7,6 @@ matthewflegg@outlook.com
 19/02/2022
 """
 
-from loader import get_image_generators
 from keras.models import Sequential
 from keras.layers import (
     Conv2D,

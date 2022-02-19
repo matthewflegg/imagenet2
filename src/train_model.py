@@ -10,6 +10,7 @@ matthewflegg@outlook.com
 from create_model import model
 from loader import get_image_generators
 
+
 # Specify the paths containing our dataset
 TRAINING_DATA_PATH = "src/dataset/train"
 VALIDATION_DATA_PATH = "src/dataset/val"
